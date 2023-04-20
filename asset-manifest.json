@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MagicCard/static/css/main.fa84fe3a.css",
+    "main.js": "/MagicCard/static/js/main.f9eb5264.js",
+    "static/media/abhay.jpg": "/MagicCard/static/media/abhay.94989661b553a56525c4.jpg",
+    "index.html": "/MagicCard/index.html",
+    "main.fa84fe3a.css.map": "/MagicCard/static/css/main.fa84fe3a.css.map",
+    "main.f9eb5264.js.map": "/MagicCard/static/js/main.f9eb5264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa84fe3a.css",
+    "static/js/main.f9eb5264.js"
+  ]
+}
